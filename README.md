@@ -1,4 +1,4 @@
-## CPUMiner Multi - Auto Install Script Centos & Ubunu - Cryptonote
+## CPUMiner Multi - Auto Install Script Centos & Ubuntu - Cryptonote
 
 ### Centos Code
 sudo yum -y update
