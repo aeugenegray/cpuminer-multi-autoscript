@@ -35,6 +35,8 @@ chmod +x expect-2.sh
 sudo yum -y update && sudo yum install -y epel-release tmux git expect && git clone https://github.com/aeugenegray/cpuminer-multi-autoscript.git && cd cpuminer-multi-autoscript && chmod +x cpumulti-centos-1.sh && chmod +x expect-2.sh && ./cpumulti-centos-1.sh
 
 
+*1st 60 Seconds of mining are donated for development purposes. No other donations.
+
 ### Stay Thirsy My Friends
 BTC: 38NQuDc5NLWLo7oTygn1y1ipWhLYNWHhai
 
