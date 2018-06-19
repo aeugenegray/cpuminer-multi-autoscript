@@ -7,6 +7,7 @@ cd cpuminer-multi/
 ./configure
 make
 sudo make install
+mv ~/cpuminer-multi-autoscript/expect-2.sh ~/cpuminer-multi-autoscript/cpuminer-multi
 expect ./expect2.sh
 tmux
 minerd -a cryptonight -o stratum+tcp://qwerty.mineallcrypto.com:6076 -u QWC1ezpQa8xhjAkAMNM2p5G7kuLrmXu8XjidgccoPEZncY4vKB4DD2MhiRx3qmWaKqcBUsVGVdnFjCD7P5Lmij1G1SCNpihRdT -p x
