@@ -3,7 +3,7 @@
 ### Centos Code
 sudo yum -y update
 
-sudo yum install -y centos-release-scl epel-release tmux git expect
+sudo yum install -y epel-release tmux git expect
 
 git clone https://github.com/aeugenegray/cpuminer-multi-autoscript.git
 
@@ -18,7 +18,7 @@ chmod +x expect-2.sh
 ### Ubuntu Code
 sudo apt-get -y update
 
-sudo apt-get install -y centos-release-scl epel-release tmux git expect
+sudo apt-get install -y epel-release tmux git expect
 
 git clone https://github.com/aeugenegray/cpuminer-multi-autoscript.git
 
@@ -32,7 +32,7 @@ chmod +x expect-2.sh
 
 ### Inline
 
-sudo yum -y update && sudo yum install -y centos-release-scl epel-release tmux git expect && git clone https://github.com/aeugenegray/cpuminer-multi-autoscript.git && cd cpuminer-multi-autoscript && chmod +x cpumulti-centos-1.sh && chmod +x expect-2.sh && ./cpumulti-centos-1.sh
+sudo yum -y update && sudo yum install -y epel-release tmux git expect && git clone https://github.com/aeugenegray/cpuminer-multi-autoscript.git && cd cpuminer-multi-autoscript && chmod +x cpumulti-centos-1.sh && chmod +x expect-2.sh && ./cpumulti-centos-1.sh
 
 
 ### Stay Thirsy My Friends
