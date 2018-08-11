@@ -3,3 +3,4 @@ expect -re "#"
 send -- "0\r"
 set timeout 60
 expect eof
+
